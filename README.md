@@ -1,2 +1,9 @@
 # DontDie
-A funny game in python. You dont need supercomputer to lauch it.
+## Requirements
+
+- Python 3.10 or newer
+- pygame 2.x
+
+Installation:
+
+pip install pygame
